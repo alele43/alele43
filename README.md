@@ -1,6 +1,6 @@
 # Bem vindes ao meu perfil, sou a Alessandra Sousa!
 
-## 🎓 Estudante de Desenvolvimento Full Stack Java pela Generation Brasil 
+## 👩‍💻 Desenvolvedora Full Stack Jr 
 ## 👧 Ela/She
  <div>
   <a href="https://github.com/alele43">
